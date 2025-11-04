@@ -111,7 +111,7 @@ $ ls -la
 -rw-r--r-- 1 bandit1 bandit1 33 Oct 6 12:00 -
 
 $ cat ./-
-<263JGJPfgU6LtdEvgfWU1XP5yac29mFx>
+<Password shown here>
 ```
 
 ### Result
