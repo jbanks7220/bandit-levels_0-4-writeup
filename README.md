@@ -50,8 +50,7 @@ cat readme
 
 <img width="507" height="159" alt="Screenshot 2025-10-06 093207" src="https://github.com/user-attachments/assets/d59f929b-966e-47c0-95fb-0bfdac3a3a5c" />
 
-<img width="681" height="166" alt="Screenshot 2025-10-06 093245" src="https://github.com/user-attachments/assets/59cd82aa-5223-4c75-9232-2526ad7b9886" />
-
+<img width="681" height="166" alt="bandit0-Screenshot-3 2025-10-06 093245" src="https://github.com/user-attachments/assets/0889696d-246b-4b02-a61d-139616c09402" />
 
 
 Example (trimmed) output:
@@ -61,7 +60,7 @@ $ ls -la
 -rw-r--r-- 1 bandit0 bandit0 103 Oct 6 12:00 readme
 
 $ cat readme
-The password for the next level is: <ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If>
+The password for the next level is: <Password shown here>
 ```
 
 ### Result
