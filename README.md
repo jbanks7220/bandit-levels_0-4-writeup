@@ -268,7 +268,7 @@ $ cat ./-file07
 ```
 
 <img width="555" height="236" alt="Screenshot 2025-10-06 122137" src="https://github.com/user-attachments/assets/e3a86f59-f763-485d-b449-d6cafc9993b9" />
-<img width="334" height="259" alt="Screenshot 2025-10-06 122519" src="https://github.com/user-attachments/assets/506646f7-8ccc-4c2d-b99a-65d19b32d275" />
+<img width="334" height="259" alt="bandit4-Screenshot-2 2025-10-06 122519" src="https://github.com/user-attachments/assets/6849f96f-7209-498a-9d48-58a3fac7f3eb" />
 
 
 ### Result
