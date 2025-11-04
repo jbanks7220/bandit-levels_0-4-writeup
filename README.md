@@ -149,7 +149,7 @@ cat /home/bandit2/'--spaces in this filename--'
 ```
 
 <img width="592" height="242" alt="Screenshot 2025-10-06 093937" src="https://github.com/user-attachments/assets/a080bca5-6098-452e-b0ec-654c9758ce2a" />
-<img width="618" height="183" alt="Screenshot 2025-10-06 095200" src="https://github.com/user-attachments/assets/70408311-9f36-457f-a703-a05de384278e" />
+<img width="618" height="183" alt="bandit2-Screenshot-2 2025-10-06 095200" src="https://github.com/user-attachments/assets/fa3193d1-2ebc-4ce8-a4b2-aa2bdc18dee1" />
 
 
 
