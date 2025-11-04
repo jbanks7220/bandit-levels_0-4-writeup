@@ -202,11 +202,7 @@ cat ./...Hiding-From-You
 ```
 
 <img width="555" height="232" alt="Screenshot 2025-10-06 095550" src="https://github.com/user-attachments/assets/3ac13b6d-c41c-41d0-a325-b28016b15634" />
-<img width="529" height="148" alt="Screenshot 2025-10-06 121610" src="https://github.com/user-attachments/assets/0d97ba48-4a58-4bc0-a9a4-bb1668e2c7ff" />
-
-
-
-
+<img width="529" height="148" alt="bandit3-Screenshot-2 2025-10-06 121610" src="https://github.com/user-attachments/assets/ae3c4788-9781-4abe-8132-07f63d956a35" />
 
 
 Example (trimmed) output:
@@ -220,7 +216,7 @@ $ ls -la
 -rw-r--r-- 1 bandit3 bandit3 33 Oct 6 12:00 ...Hiding-From-You
 
 $ cat ./...Hiding-From-You
-<2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ>
+<Password shown here>
 ```
 
 ### Result
@@ -268,7 +264,7 @@ $ file ./*
 ./-file08: data
 ./-file09: data
 $ cat ./-file07
-<4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw>
+<Password shown here>
 ```
 
 <img width="555" height="236" alt="Screenshot 2025-10-06 122137" src="https://github.com/user-attachments/assets/e3a86f59-f763-485d-b449-d6cafc9993b9" />
