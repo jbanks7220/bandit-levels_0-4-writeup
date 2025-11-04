@@ -160,7 +160,7 @@ $ ls -la
 -rw-r--r-- 1 bandit2 bandit2 341 Oct 6 12:00 --spaces in this filename--
 
 $ cat /home/bandit2/'--spaces in this filename--'
-<MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx>
+<Password shown here>
 ```
 
 ### Result
